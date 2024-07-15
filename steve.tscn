@@ -1,0 +1,38 @@
+[gd_scene load_steps=5 format=3 uid="uid://ce46wwar0n5n2"]
+
+[ext_resource type="Script" path="res://Steve.gd" id="1_aec17"]
+[ext_resource type="Texture2D" uid="uid://cxftf3o6nj4ay" path="res://Test-Game-Godot/Resources/graphics/player/player.png" id="2_qyu2t"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_yvkon"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_qyu2t")
+}],
+"loop": true,
+"name": &"Player",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_8q7jl"]
+radius = 76.4003
+
+[node name="Steve" type="CharacterBody2D"]
+collision_mask = 31
+script = ExtResource("1_aec17")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(119, 116)
+sprite_frames = SubResource("SpriteFrames_yvkon")
+animation = &"Player"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(120, 144)
+shape = SubResource("CircleShape2D_8q7jl")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(112, 145)
+position_smoothing_enabled = true
+
+[node name="StartPosition" type="Marker2D" parent="."]
+position = Vector2(121, 157)

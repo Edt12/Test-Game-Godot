@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://h2g4yogi0fcl"]
+
+[ext_resource type="Texture2D" uid="uid://djq0yi2af8tg1" path="res://Test-Game-Godot/Resources/graphics/items/orb2.png" id="1_e15k8"]
+[ext_resource type="Script" path="res://Test-Game-Godot/coin.gd" id="1_lkap7"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_r5wks"]
+radius = 59.9333
+
+[node name="Coin" type="Area2D"]
+collision_mask = 31
+script = ExtResource("1_lkap7")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_e15k8")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_r5wks")
