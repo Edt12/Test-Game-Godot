@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4b8pyfa4mhrh"
-path="res://.godot/imported/00014.png-1516e275a9250a3cec86e531881b6bef.ctex"
+path="res://.godot/imported/00014.png-f43d88c4c45dbf869a652a087cdc1d3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/enemies/bug/attack/00014.png"
-dest_files=["res://.godot/imported/00014.png-1516e275a9250a3cec86e531881b6bef.ctex"]
+source_file="res://Resources/graphics/decals/enemies/bug/attack/00014.png"
+dest_files=["res://.godot/imported/00014.png-f43d88c4c45dbf869a652a087cdc1d3a.ctex"]
 
 [params]
 

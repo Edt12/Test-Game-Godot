@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwt7wwntci2bd"
-path="res://.godot/imported/Billboard.png-a917d59ddbaf1161ccad8215d0889cdd.ctex"
+path="res://.godot/imported/Billboard.png-3dcfe5dfa46c0de943aa8027afc50f50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/Billboard.png"
-dest_files=["res://.godot/imported/Billboard.png-a917d59ddbaf1161ccad8215d0889cdd.ctex"]
+source_file="res://Resources/graphics/objects/Billboard.png"
+dest_files=["res://.godot/imported/Billboard.png-3dcfe5dfa46c0de943aa8027afc50f50.ctex"]
 
 [params]
 

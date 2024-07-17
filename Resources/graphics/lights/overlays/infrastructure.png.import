@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyekubfhlgxxn"
-path="res://.godot/imported/infrastructure.png-93d53153e40fbc8fdcf94dba6d027a1a.ctex"
+path="res://.godot/imported/infrastructure.png-06274775dca921a3d87b6001acc70b10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/lights/overlays/infrastructure.png"
-dest_files=["res://.godot/imported/infrastructure.png-93d53153e40fbc8fdcf94dba6d027a1a.ctex"]
+source_file="res://Resources/graphics/lights/overlays/infrastructure.png"
+dest_files=["res://.godot/imported/infrastructure.png-06274775dca921a3d87b6001acc70b10.ctex"]
 
 [params]
 

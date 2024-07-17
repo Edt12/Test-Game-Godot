@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw4iaxtcetbql"
-path="res://.godot/imported/grenade.png-ad6704ca624b95e45d63c6655a5520ac.ctex"
+path="res://.godot/imported/grenade.png-518e94bf5adfb50f711535600018b231.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/projectiles/grenade.png"
-dest_files=["res://.godot/imported/grenade.png-ad6704ca624b95e45d63c6655a5520ac.ctex"]
+source_file="res://Resources/graphics/projectiles/grenade.png"
+dest_files=["res://.godot/imported/grenade.png-518e94bf5adfb50f711535600018b231.ctex"]
 
 [params]
 

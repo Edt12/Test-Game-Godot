@@ -1,10 +1,12 @@
-[gd_scene load_steps=9 format=3 uid="uid://cihmisq422ucs"]
+[gd_scene load_steps=11 format=3 uid="uid://cihmisq422ucs"]
 
-[ext_resource type="PackedScene" uid="uid://ce46wwar0n5n2" path="res://Test-Game-Godot/steve.tscn" id="1_qnmwd"]
-[ext_resource type="Texture2D" uid="uid://div7vq66xy8pb" path="res://Test-Game-Godot/Resources/graphics/tilesets/outside_walls.png" id="2_gk4ye"]
-[ext_resource type="Texture2D" uid="uid://4nbwl5hvy7fo" path="res://Test-Game-Godot/Resources/graphics/tilesets/soil.png" id="2_timma"]
-[ext_resource type="PackedScene" uid="uid://bj87a2d8o55ey" path="res://Test-Game-Godot/ui.tscn" id="4_vd4sy"]
-[ext_resource type="PackedScene" uid="uid://h2g4yogi0fcl" path="res://Test-Game-Godot/coin.tscn" id="5_c5on5"]
+[ext_resource type="PackedScene" uid="uid://ce46wwar0n5n2" path="res://steve.tscn" id="1_qnmwd"]
+[ext_resource type="Texture2D" uid="uid://div7vq66xy8pb" path="res://Resources/graphics/tilesets/outside_walls.png" id="2_gk4ye"]
+[ext_resource type="Texture2D" uid="uid://4nbwl5hvy7fo" path="res://Resources/graphics/tilesets/soil.png" id="2_timma"]
+[ext_resource type="Script" path="res://steve.gd" id="4_2gy2d"]
+[ext_resource type="PackedScene" uid="uid://bj87a2d8o55ey" path="res://UI.tscn" id="4_vd4sy"]
+[ext_resource type="PackedScene" uid="uid://h2g4yogi0fcl" path="res://coin.tscn" id="5_c5on5"]
+[ext_resource type="Script" path="res://coin.gd" id="7_faibs"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_654ly"]
 resource_name = "Soil"
@@ -110,6 +112,7 @@ layer_1/tile_data = PackedInt32Array(65536, 65537, 0, 65538, 65537, 0, 65540, 65
 
 [node name="character" parent="." instance=ExtResource("1_qnmwd")]
 safe_margin = 0.07
+script = ExtResource("4_2gy2d")
 
 [node name="UI" parent="." instance=ExtResource("4_vd4sy")]
 
@@ -117,3 +120,4 @@ safe_margin = 0.07
 position = Vector2(1680, 420)
 rotation = 1.42419
 collision_layer = 4
+script = ExtResource("7_faibs")

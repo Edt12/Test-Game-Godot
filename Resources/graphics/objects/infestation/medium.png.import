@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpvlvhgqs8yga"
-path="res://.godot/imported/medium.png-f23297430249b049044b1d4f2842da31.ctex"
+path="res://.godot/imported/medium.png-8a253f0f7d689ed013a015880ea65a50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/infestation/medium.png"
-dest_files=["res://.godot/imported/medium.png-f23297430249b049044b1d4f2842da31.ctex"]
+source_file="res://Resources/graphics/objects/infestation/medium.png"
+dest_files=["res://.godot/imported/medium.png-8a253f0f7d689ed013a015880ea65a50.ctex"]
 
 [params]
 

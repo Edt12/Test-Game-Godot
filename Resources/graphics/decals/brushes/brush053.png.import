@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbyyxhc6t38up"
-path="res://.godot/imported/brush053.png-7580d32f092cdfe6a03f0220cd04023e.ctex"
+path="res://.godot/imported/brush053.png-54b6dbddd111b848410cc301b11186a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/brushes/brush053.png"
-dest_files=["res://.godot/imported/brush053.png-7580d32f092cdfe6a03f0220cd04023e.ctex"]
+source_file="res://Resources/graphics/decals/brushes/brush053.png"
+dest_files=["res://.godot/imported/brush053.png-54b6dbddd111b848410cc301b11186a8.ctex"]
 
 [params]
 

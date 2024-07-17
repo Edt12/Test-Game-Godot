@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwrveggdvfng3"
-path="res://.godot/imported/Box.png-ed850b10c9579afe8f259b2d19f6d471.ctex"
+path="res://.godot/imported/Box.png-060b2a02dcea9559b65ee6c5d94a6157.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/Box.png"
-dest_files=["res://.godot/imported/Box.png-ed850b10c9579afe8f259b2d19f6d471.ctex"]
+source_file="res://Resources/graphics/objects/Box.png"
+dest_files=["res://.godot/imported/Box.png-060b2a02dcea9559b65ee6c5d94a6157.ctex"]
 
 [params]
 

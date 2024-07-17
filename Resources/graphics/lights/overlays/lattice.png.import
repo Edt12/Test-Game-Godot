@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://eq7pq66fu0el"
-path="res://.godot/imported/lattice.png-7ac2ec8bc7bfbc8d328619beb4c2e860.ctex"
+path="res://.godot/imported/lattice.png-a9e50f02459aa767f3f77cc18fd88674.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/lights/overlays/lattice.png"
-dest_files=["res://.godot/imported/lattice.png-7ac2ec8bc7bfbc8d328619beb4c2e860.ctex"]
+source_file="res://Resources/graphics/lights/overlays/lattice.png"
+dest_files=["res://.godot/imported/lattice.png-a9e50f02459aa767f3f77cc18fd88674.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxm4fh6y7ke7u"
-path="res://.godot/imported/scout.png-36821f18ea99c7151289e41f54ee7459.ctex"
+path="res://.godot/imported/scout.png-43408f3788313014d138100a5b6d9711.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/enemies/scout.png"
-dest_files=["res://.godot/imported/scout.png-36821f18ea99c7151289e41f54ee7459.ctex"]
+source_file="res://Resources/graphics/decals/enemies/scout.png"
+dest_files=["res://.godot/imported/scout.png-43408f3788313014d138100a5b6d9711.ctex"]
 
 [params]
 

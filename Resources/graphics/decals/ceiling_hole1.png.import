@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3uxhsr8ruxnb"
-path="res://.godot/imported/ceiling_hole1.png-6861ed6b6df0c012977006d03acd3e98.ctex"
+path="res://.godot/imported/ceiling_hole1.png-7bc7e80a3756f7b6300db0157fb134c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/ceiling_hole1.png"
-dest_files=["res://.godot/imported/ceiling_hole1.png-6861ed6b6df0c012977006d03acd3e98.ctex"]
+source_file="res://Resources/graphics/decals/ceiling_hole1.png"
+dest_files=["res://.godot/imported/ceiling_hole1.png-7bc7e80a3756f7b6300db0157fb134c0.ctex"]
 
 [params]
 

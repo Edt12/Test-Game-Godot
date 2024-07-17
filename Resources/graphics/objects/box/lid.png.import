@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi51hcumkjqlf"
-path="res://.godot/imported/lid.png-865b1d332b40a93fa6e01712bd22c859.ctex"
+path="res://.godot/imported/lid.png-ccc3a38b62d9521971e3243cb79e9090.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/box/lid.png"
-dest_files=["res://.godot/imported/lid.png-865b1d332b40a93fa6e01712bd22c859.ctex"]
+source_file="res://Resources/graphics/objects/box/lid.png"
+dest_files=["res://.godot/imported/lid.png-ccc3a38b62d9521971e3243cb79e9090.ctex"]
 
 [params]
 

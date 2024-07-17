@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mh1q75x420mf"
-path="res://.godot/imported/wall_lamp.png-d9fc4cc510ad9326d99ecf316266950c.ctex"
+path="res://.godot/imported/wall_lamp.png-5544d7dffa6aba2da393c5282e660274.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/wall_lamp.png"
-dest_files=["res://.godot/imported/wall_lamp.png-d9fc4cc510ad9326d99ecf316266950c.ctex"]
+source_file="res://Resources/graphics/objects/wall_lamp.png"
+dest_files=["res://.godot/imported/wall_lamp.png-5544d7dffa6aba2da393c5282e660274.ctex"]
 
 [params]
 

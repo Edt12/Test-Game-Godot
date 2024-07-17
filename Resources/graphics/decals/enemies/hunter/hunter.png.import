@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clgjhky5vdll1"
-path="res://.godot/imported/hunter.png-e8612fd6bb63bf0bfd9fb5b6b6410f15.ctex"
+path="res://.godot/imported/hunter.png-773851aee0fac0002daac9bd2ce6edc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/enemies/hunter/hunter.png"
-dest_files=["res://.godot/imported/hunter.png-e8612fd6bb63bf0bfd9fb5b6b6410f15.ctex"]
+source_file="res://Resources/graphics/decals/enemies/hunter/hunter.png"
+dest_files=["res://.godot/imported/hunter.png-773851aee0fac0002daac9bd2ce6edc7.ctex"]
 
 [params]
 

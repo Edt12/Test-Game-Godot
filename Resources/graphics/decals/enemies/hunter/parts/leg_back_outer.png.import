@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb76rkful0vg7"
-path="res://.godot/imported/leg_back_outer.png-2059414603c2c480b26f596c9d00c665.ctex"
+path="res://.godot/imported/leg_back_outer.png-e1fb186ca30c6f4002aefb69dc3d9af9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/decals/enemies/hunter/parts/leg_back_outer.png"
-dest_files=["res://.godot/imported/leg_back_outer.png-2059414603c2c480b26f596c9d00c665.ctex"]
+source_file="res://Resources/graphics/decals/enemies/hunter/parts/leg_back_outer.png"
+dest_files=["res://.godot/imported/leg_back_outer.png-e1fb186ca30c6f4002aefb69dc3d9af9.ctex"]
 
 [params]
 

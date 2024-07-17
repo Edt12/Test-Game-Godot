@@ -1,3 +1,6 @@
-res://Scenes/placeholder.tscn
-res://placeholder.tscn
-res://Scene/placeholder.tscn
+res://level1.tscn
+res://UI.tscn
+res://Global.gd
+res://coin.gd
+res://Steve.gd
+res://steve.gd

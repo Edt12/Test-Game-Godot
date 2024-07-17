@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sxemp5rcryrb"
-path="res://.godot/imported/electric_hole.png-dd4e8091d4d39f97e56c951580a18ea9.ctex"
+path="res://.godot/imported/electric_hole.png-a2ecc9d061b73201d60a6442b851a9ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/electric_hole.png"
-dest_files=["res://.godot/imported/electric_hole.png-dd4e8091d4d39f97e56c951580a18ea9.ctex"]
+source_file="res://Resources/graphics/objects/electric_hole.png"
+dest_files=["res://.godot/imported/electric_hole.png-a2ecc9d061b73201d60a6442b851a9ba.ctex"]
 
 [params]
 

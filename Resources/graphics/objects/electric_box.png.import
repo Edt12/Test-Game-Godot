@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkbrm8sx0wue2"
-path="res://.godot/imported/electric_box.png-57a05d32fb32bd60ce455f4d2bb8de35.ctex"
+path="res://.godot/imported/electric_box.png-60cab6c230b53f3fe16af41458185106.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Test-Game-Godot/Resources/graphics/objects/electric_box.png"
-dest_files=["res://.godot/imported/electric_box.png-57a05d32fb32bd60ce455f4d2bb8de35.ctex"]
+source_file="res://Resources/graphics/objects/electric_box.png"
+dest_files=["res://.godot/imported/electric_box.png-60cab6c230b53f3fe16af41458185106.ctex"]
 
 [params]
 
